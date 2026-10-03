@@ -1,0 +1,1 @@
+export const vehicles:Record<string,Record<string,string[]>>={"Mercedes-Benz":{"E-Class":["225/55 R17","245/45 R18","245/40 R19"],"C-Class":["225/45 R17","225/40 R18"]},"BMW":{"3 серия":["225/45 R17","245/45 R18"],"X3":["235/55 R19","255/45 R20"]},"Toyota":{"Camry":["205/55 R16","215/55 R18"],"RAV4":["225/55 R17","235/55 R19"]}};
